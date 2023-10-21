@@ -1,5 +1,6 @@
 # PowerBI-Business-Insights-360
 Microsoft PowerBI Business Insights Dashboard for Finance , Sales , Marketing , Supply Chain  and Executive Views.
+(https://app.powerbi.com/view?r=eyJrIjoiYmRhYzY4MGItYzkyNC00OTFlLTgzMDgtODVhYjNhNDMxYzk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Objective of Dashboard :
   - Easy and One Stop access to all the Business data.
